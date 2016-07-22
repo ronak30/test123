@@ -1,0 +1,27 @@
+Many to Many
+1)http://stackoverflow.com/questions/29442493/how-to-create-a-many-to-many-relationship-with-latest-nightly-builds-of-ef7
+2)http://www.entityframeworktutorial.net/code-first/configure-one-to-many-relationship-in-code-first.aspx
+3)http://www.c-sharpcorner.com/UploadFile/a3d5d0/creating-many-to-many-mapping-using-code-first-entity-frame/
+
+
+one to one
+
+http://www.entityframeworktutorial.net/code-first/configure-one-to-one-relationship-in-code-first.aspx
+http://www.c-sharpcorner.com/UploadFile/ff2f08/configure-one-to-one-relationship-in-entity-framework-using/
+http://www.c-sharpcorner.com/UploadFile/3d39b4/relationship-in-entity-framework-using-code-first-approach-w/
+
+
+SeedData
+http://www.asp.net/web-api/overview/data/using-web-api-with-entity-framework/part-3
+
+
+Add-Migration [Migration Name]
+Update-Database
+OR
+dotnet ef migrations add Initial(Initial is Migration Name)
+dotnet ef database update
+
+
+
+
+
